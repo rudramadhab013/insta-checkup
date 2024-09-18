@@ -1,0 +1,267 @@
+// Export pages
+export '/pages/home_page/home_page_widget.dart' show HomePageWidget;
+export '/layer1/fever1/fever1_widget.dart' show Fever1Widget;
+export '/layer1/cough/cough_widget.dart' show CoughWidget;
+export '/result/fever/sweting/sweting_widget.dart' show SwetingWidget;
+export '/result/fever/nauseaor_vomiting/nauseaor_vomiting_widget.dart'
+    show NauseaorVomitingWidget;
+export '/result/fever/rash/rash_widget.dart' show RashWidget;
+export '/result/fever/intermittent/intermittent_widget.dart'
+    show IntermittentWidget;
+export '/result/fever/persistent/persistent_widget.dart' show PersistentWidget;
+export '/result/fever/sore_throat/sore_throat_widget.dart'
+    show SoreThroatWidget;
+export '/result/fever/muscleor_joint_pain/muscleor_joint_pain_widget.dart'
+    show MuscleorJointPainWidget;
+export '/result/fever/chills/chills_widget.dart' show ChillsWidget;
+export '/result/fever/severe_headache/severe_headache_widget.dart'
+    show SevereHeadacheWidget;
+export '/result/fever/dengue/dengue_widget.dart' show DengueWidget;
+export '/result/fever/malaria/malaria_widget.dart' show MalariaWidget;
+export '/result/fever/hyperthyroidism/hyperthyroidism_widget.dart'
+    show HyperthyroidismWidget;
+export '/result/fever/tuberculosis_t_b/tuberculosis_t_b_widget.dart'
+    show TuberculosisTBWidget;
+export '/result/fever/meningitis/meningitis_widget.dart' show MeningitisWidget;
+export '/result/cough/persistent_cough/persistent_cough_widget.dart'
+    show PersistentCoughWidget;
+export '/result/cough/tickling_sensation/tickling_sensation_widget.dart'
+    show TicklingSensationWidget;
+export '/result/cough/dry_irritating/dry_irritating_widget.dart'
+    show DryIrritatingWidget;
+export '/result/cough/coughwith_mucus/coughwith_mucus_widget.dart'
+    show CoughwithMucusWidget;
+export '/result/cough/coughwith_chest/coughwith_chest_widget.dart'
+    show CoughwithChestWidget;
+export '/result/cough/coughwith_wheezing/coughwith_wheezing_widget.dart'
+    show CoughwithWheezingWidget;
+export '/layer1/headache/headache_widget.dart' show HeadacheWidget;
+export '/result/headache/dull_aching/dull_aching_widget.dart'
+    show DullAchingWidget;
+export '/result/headache/sensationof_tightness/sensationof_tightness_widget.dart'
+    show SensationofTightnessWidget;
+export '/result/headache/throbbing/throbbing_widget.dart' show ThrobbingWidget;
+export '/result/headache/sensitivityto_ligh/sensitivityto_ligh_widget.dart'
+    show SensitivitytoLighWidget;
+export '/result/headache/nauseaor_vomiting_acc/nauseaor_vomiting_acc_widget.dart'
+    show NauseaorVomitingAccWidget;
+export '/result/headache/painor_pressure/painor_pressure_widget.dart'
+    show PainorPressureWidget;
+export '/result/headache/nasal_congestion/nasal_congestion_widget.dart'
+    show NasalCongestionWidget;
+export '/result/headache/severe_burning/severe_burning_widget.dart'
+    show SevereBurningWidget;
+export '/layer1/fatigue/fatigue_widget.dart' show FatigueWidget;
+export '/result/fatigue/persistent_tiredness/persistent_tiredness_widget.dart'
+    show PersistentTirednessWidget;
+export '/result/fatigue/lackof_energy/lackof_energy_widget.dart'
+    show LackofEnergyWidget;
+export '/result/fatigue/fatigue_lasting/fatigue_lasting_widget.dart'
+    show FatigueLastingWidget;
+export '/result/fatigue/fatiguewith_muscle/fatiguewith_muscle_widget.dart'
+    show FatiguewithMuscleWidget;
+export '/result/fatigue/difficulty_concentr/difficulty_concentr_widget.dart'
+    show DifficultyConcentrWidget;
+export '/result/fatigue/feeling_overwhelm/feeling_overwhelm_widget.dart'
+    show FeelingOverwhelmWidget;
+export '/result/fatigue/sleep_related/sleep_related_widget.dart'
+    show SleepRelatedWidget;
+export '/result/fatigue/waking_up_feeling/waking_up_feeling_widget.dart'
+    show WakingUpFeelingWidget;
+export '/layer1/body_aches/body_aches_widget.dart' show BodyAchesWidget;
+export '/result/bodyache/generalized_body/generalized_body_widget.dart'
+    show GeneralizedBodyWidget;
+export '/result/bodyache/ii_fatiguewith_body_aches/ii_fatiguewith_body_aches_widget.dart'
+    show IiFatiguewithBodyAchesWidget;
+export '/result/bodyache/sore_musclesaf/sore_musclesaf_widget.dart'
+    show SoreMusclesafWidget;
+export '/result/bodyache/ii_muscle_stiffness/ii_muscle_stiffness_widget.dart'
+    show IiMuscleStiffnessWidget;
+export '/result/bodyache/painin_knees_elb/painin_knees_elb_widget.dart'
+    show PaininKneesElbWidget;
+export '/result/bodyache/stiffnessin_join/stiffnessin_join_widget.dart'
+    show StiffnessinJoinWidget;
+export '/result/bodyache/lower_back/lower_back_widget.dart'
+    show LowerBackWidget;
+export '/result/bodyache/upper_backor_ne/upper_backor_ne_widget.dart'
+    show UpperBackorNeWidget;
+export '/layer1/sorehroat/sorehroat_widget.dart' show SorehroatWidget;
+export '/result/sorehroat/sractchyor_itch/sractchyor_itch_widget.dart'
+    show SractchyorItchWidget;
+export '/result/sorehroat/throat_irritationdue/throat_irritationdue_widget.dart'
+    show ThroatIrritationdueWidget;
+export '/result/sorehroat/severe_sore_thr/severe_sore_thr_widget.dart'
+    show SevereSoreThrWidget;
+export '/result/sorehroat/ii_swollen_tonsils/ii_swollen_tonsils_widget.dart'
+    show IiSwollenTonsilsWidget;
+export '/result/sorehroat/bacterial_throa/bacterial_throa_widget.dart'
+    show BacterialThroaWidget;
+export '/result/sorehroat/persistent_sore/persistent_sore_widget.dart'
+    show PersistentSoreWidget;
+export '/result/sorehroat/accompaniedby_hoarseness/accompaniedby_hoarseness_widget.dart'
+    show AccompaniedbyHoarsenessWidget;
+export '/result/sorehroat/viral_throat_infec/viral_throat_infec_widget.dart'
+    show ViralThroatInfecWidget;
+export '/layer1/nauseaoromiting/nauseaoromiting_widget.dart'
+    show NauseaoromitingWidget;
+export '/result/nauseaoromiting/mild_nausea/mild_nausea_widget.dart'
+    show MildNauseaWidget;
+export '/result/nauseaoromiting/severe_nausea/severe_nausea_widget.dart'
+    show SevereNauseaWidget;
+export '/result/nauseaoromiting/persistent_nausea/persistent_nausea_widget.dart'
+    show PersistentNauseaWidget;
+export '/result/nauseaoromiting/vomiting/vomiting_widget.dart'
+    show VomitingWidget;
+export '/layer1/diarrhea/diarrhea_widget.dart' show DiarrheaWidget;
+export '/result/diarrhea/acute_diarrhea/acute_diarrhea_widget.dart'
+    show AcuteDiarrheaWidget;
+export '/result/diarrhea/chronic_diarrhea/chronic_diarrhea_widget.dart'
+    show ChronicDiarrheaWidget;
+export '/result/diarrhea/diarrheawith_crampi/diarrheawith_crampi_widget.dart'
+    show DiarrheawithCrampiWidget;
+export '/result/diarrhea/diarrheawith_fever/diarrheawith_fever_widget.dart'
+    show DiarrheawithFeverWidget;
+export '/result/diarrhea/travelers_diarrhea/travelers_diarrhea_widget.dart'
+    show TravelersDiarrheaWidget;
+export '/layer1/shortnessof_breath/shortnessof_breath_widget.dart'
+    show ShortnessofBreathWidget;
+export '/result/shortnessof_breath/mild_shortnessof_breat/mild_shortnessof_breat_widget.dart'
+    show MildShortnessofBreatWidget;
+export '/result/shortnessof_breath/persistent_shortnessof_breath/persistent_shortnessof_breath_widget.dart'
+    show PersistentShortnessofBreathWidget;
+export '/result/shortnessof_breath/shortnessof_breathwith_wheezing/shortnessof_breathwith_wheezing_widget.dart'
+    show ShortnessofBreathwithWheezingWidget;
+export '/result/shortnessof_breath/shorsof_brhwth_chest_pain/shorsof_brhwth_chest_pain_widget.dart'
+    show ShorsofBrhwthChestPainWidget;
+export '/result/shortnessof_breath/shortnessof_breathwith_fever/shortnessof_breathwith_fever_widget.dart'
+    show ShortnessofBreathwithFeverWidget;
+export '/layer1/chest_painor_discomfort/chest_painor_discomfort_widget.dart'
+    show ChestPainorDiscomfortWidget;
+export '/result/chestpaindiscomfort/mild_chest_discomfort/mild_chest_discomfort_widget.dart'
+    show MildChestDiscomfortWidget;
+export '/result/chestpaindiscomfort/sharp_chest_pain/sharp_chest_pain_widget.dart'
+    show SharpChestPainWidget;
+export '/result/chestpaindiscomfort/chest_painwith_radiation/chest_painwith_radiation_widget.dart'
+    show ChestPainwithRadiationWidget;
+export '/result/chestpaindiscomfort/chest_painwith_fever/chest_painwith_fever_widget.dart'
+    show ChestPainwithFeverWidget;
+export '/result/chestpaindiscomfort/chronic_chest_pain/chronic_chest_pain_widget.dart'
+    show ChronicChestPainWidget;
+export '/result/dizzinessor_lightheadedness/mild_dizziness/mild_dizziness_widget.dart'
+    show MildDizzinessWidget;
+export '/layer1/dizzinessor_lightheadedness/dizzinessor_lightheadedness_widget.dart'
+    show DizzinessorLightheadednessWidget;
+export '/result/dizzinessor_lightheadedness/persistent_dizziness/persistent_dizziness_widget.dart'
+    show PersistentDizzinessWidget;
+export '/result/dizzinessor_lightheadedness/vertigo_spinning_se/vertigo_spinning_se_widget.dart'
+    show VertigoSpinningSeWidget;
+export '/result/dizzinessor_lightheadedness/dizzinesswith_headache/dizzinesswith_headache_widget.dart'
+    show DizzinesswithHeadacheWidget;
+export '/result/dizzinessor_lightheadedness/dizzinesswith_fatigue/dizzinesswith_fatigue_widget.dart'
+    show DizzinesswithFatigueWidget;
+export '/layer1/lossof_appetite/lossof_appetite_widget.dart'
+    show LossofAppetiteWidget;
+export '/result/lossof_appetite/mild_lossof_appetite/mild_lossof_appetite_widget.dart'
+    show MildLossofAppetiteWidget;
+export '/result/lossof_appetite/persistent_lossof_appetite/persistent_lossof_appetite_widget.dart'
+    show PersistentLossofAppetiteWidget;
+export '/result/lossof_appetite/lossof_appetitewith_nausea/lossof_appetitewith_nausea_widget.dart'
+    show LossofAppetitewithNauseaWidget;
+export '/result/lossof_appetite/lossof_appetitewith_abdominal_pain/lossof_appetitewith_abdominal_pain_widget.dart'
+    show LossofAppetitewithAbdominalPainWidget;
+export '/result/lossof_appetite/lossof_appetitewith_fever/lossof_appetitewith_fever_widget.dart'
+    show LossofAppetitewithFeverWidget;
+export '/layer1/rashor_skin_changes/rashor_skin_changes_widget.dart'
+    show RashorSkinChangesWidget;
+export '/result/rashor_skin_changes/mild_rash/mild_rash_widget.dart'
+    show MildRashWidget;
+export '/result/rashor_skin_changes/persistent_rash/persistent_rash_widget.dart'
+    show PersistentRashWidget;
+export '/result/rashor_skin_changes/rashwith_blisters/rashwith_blisters_widget.dart'
+    show RashwithBlistersWidget;
+export '/result/rashor_skin_changes/rashwith_fever/rashwith_fever_widget.dart'
+    show RashwithFeverWidget;
+export '/result/rashor_skin_changes/rashwith_swelling/rashwith_swelling_widget.dart'
+    show RashwithSwellingWidget;
+export '/result/rashor_skin_changes/rashwith_acne/rashwith_acne_widget.dart'
+    show RashwithAcneWidget;
+export '/layer1/abdominal_pain/abdominal_pain_widget.dart'
+    show AbdominalPainWidget;
+export '/result/abdominalpain/mild_abdominal_pain/mild_abdominal_pain_widget.dart'
+    show MildAbdominalPainWidget;
+export '/result/abdominalpain/persistent_abdominal_pain/persistent_abdominal_pain_widget.dart'
+    show PersistentAbdominalPainWidget;
+export '/result/abdominalpain/sharp_abdominal_pain/sharp_abdominal_pain_widget.dart'
+    show SharpAbdominalPainWidget;
+export '/result/abdominalpain/abdominal_painwith_diarrhea/abdominal_painwith_diarrhea_widget.dart'
+    show AbdominalPainwithDiarrheaWidget;
+export '/result/abdominalpain/abdominal_painwith_constipation/abdominal_painwith_constipation_widget.dart'
+    show AbdominalPainwithConstipationWidget;
+export '/result/abdominalpain/abdominal_painwith_fever/abdominal_painwith_fever_widget.dart'
+    show AbdominalPainwithFeverWidget;
+export '/layer1/urinary_changes/urinary_changes_widget.dart'
+    show UrinaryChangesWidget;
+export '/result/urinarychanges/painful_urination/painful_urination_widget.dart'
+    show PainfulUrinationWidget;
+export '/result/urinarychanges/frequent_urination/frequent_urination_widget.dart'
+    show FrequentUrinationWidget;
+export '/result/urinarychanges/urgencyand_incontinence/urgencyand_incontinence_widget.dart'
+    show UrgencyandIncontinenceWidget;
+export '/result/urinarychanges/painin_lower_abdo/painin_lower_abdo_widget.dart'
+    show PaininLowerAbdoWidget;
+export '/result/urinarychanges/urinary_changeswith_feve/urinary_changeswith_feve_widget.dart'
+    show UrinaryChangeswithFeveWidget;
+export '/result/urinarychanges/urinary_changeswith_back_pain/urinary_changeswith_back_pain_widget.dart'
+    show UrinaryChangeswithBackPainWidget;
+export '/layer1/unexplained_weight_lossor_gain/unexplained_weight_lossor_gain_widget.dart'
+    show UnexplainedWeightLossorGainWidget;
+export '/result/weightlossandgain/unexplained_weight_loss/unexplained_weight_loss_widget.dart'
+    show UnexplainedWeightLossWidget;
+export '/layer1/changesin_vision/changesin_vision_widget.dart'
+    show ChangesinVisionWidget;
+export '/result/visionproblem/blurred_vision/blurred_vision_widget.dart'
+    show BlurredVisionWidget;
+export '/result/visionproblem/night_blindness/night_blindness_widget.dart'
+    show NightBlindnessWidget;
+export '/result/weightlossandgain/weight_gainwith_swelling/weight_gainwith_swelling_widget.dart'
+    show WeightGainwithSwellingWidget;
+export '/result/moodchange/anxiety/anxiety_widget.dart' show AnxietyWidget;
+export '/layer1/mood_changes/mood_changes_widget.dart' show MoodChangesWidget;
+export '/result/moodchange/irritability/irritability_widget.dart'
+    show IrritabilityWidget;
+export '/result/skin_conditions/acne/acne_widget.dart' show AcneWidget;
+export '/layer1/skin_conditions/skin_conditions_widget.dart'
+    show SkinConditionsWidget;
+export '/result/skin_conditions/psoriasis/psoriasis_widget.dart'
+    show PsoriasisWidget;
+export '/result/jointand_muscle_issues/joint_pain/joint_pain_widget.dart'
+    show JointPainWidget;
+export '/layer1/jointand_muscle_issues/jointand_muscle_issues_widget.dart'
+    show JointandMuscleIssuesWidget;
+export '/result/jointand_muscle_issues/arthritis/arthritis_widget.dart'
+    show ArthritisWidget;
+export '/layer1/digestive_problems/digestive_problems_widget.dart'
+    show DigestiveProblemsWidget;
+export '/result/digestive_problems/constipation/constipation_widget.dart'
+    show ConstipationWidget;
+export '/result/digestive_problems/gastritis/gastritis_widget.dart'
+    show GastritisWidget;
+export '/result/respiratory_issues/allergies/allergies_widget.dart'
+    show AllergiesWidget;
+export '/layer1/respiratory_issues/respiratory_issues_widget.dart'
+    show RespiratoryIssuesWidget;
+export '/result/respiratory_issues/asthma/asthma_widget.dart' show AsthmaWidget;
+export '/result/circulatory_problems/anemia/anemia_widget.dart'
+    show AnemiaWidget;
+export '/layer1/circulatory_problems/circulatory_problems_widget.dart'
+    show CirculatoryProblemsWidget;
+export '/result/circulatory_problems/high_blood_pressure/high_blood_pressure_widget.dart'
+    show HighBloodPressureWidget;
+export '/result/sexual_health_issues/painful_intercourse_dyspa/painful_intercourse_dyspa_widget.dart'
+    show PainfulIntercourseDyspaWidget;
+export '/layer1/sexual_health_issues/sexual_health_issues_widget.dart'
+    show SexualHealthIssuesWidget;
+export '/result/sexual_health_issues/erectile_dysfunction/erectile_dysfunction_widget.dart'
+    show ErectileDysfunctionWidget;
+export '/layer1/ads/ads_widget.dart' show AdsWidget;
+export '/pages/start/start_widget.dart' show StartWidget;
